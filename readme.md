@@ -1,6 +1,6 @@
-Any CDN for Acode
+# Any CDN for Acode
 
-A powerful and elegant CDN management plugin for Acode editor that provides instant access to popular CDN links with version control, favorites system, and HTML bundle generation.
+### A powerful and elegant CDN management plugin for Acode editor that provides instant access to popular CDN links with version control, favorites system, and HTML bundle generation.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Acode](https://img.shields.io/badge/Acode-Plugin-purple.svg)
@@ -122,8 +122,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <p align="center">
   Made with ❤️ by <a href="https://t.me/BadhonAI">BadhonAI</a>
-</p>
-
-<p align="center">
-  <a href="#-cdn-library-hub-for-acode">Back to top ↑</a>
 </p>
