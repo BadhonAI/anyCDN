@@ -556,7 +556,7 @@ this.cdnData = [
       <div class="cdn-container">
         <div class="cdn-wrapper">
           <div class="cdn-header">
-            <h1 class="cdn-title">🚀 CDN Library Hub</h1>
+            <h1 class="cdn-title">🚀 Any CDN</h1>
             <p class="cdn-subtitle">Quick access to popular CDN links with version control</p>
           </div>
           
