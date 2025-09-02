@@ -63,37 +63,16 @@ Any CDN transforms the way you manage CDN dependencies in your web projects. Wit
 
 ## 📦 Available CDNs
 
-### CSS Frameworks
-- **Bootstrap** - The world's most popular CSS framework
-- **Tailwind CSS** - Utility-first CSS framework
-
-### JavaScript Libraries
-- **jQuery** - Fast, small JavaScript library
-- **React** - Library for building user interfaces
-- **Vue.js** - Progressive JavaScript framework
-- **Alpine.js** - Lightweight framework for HTML
-
-### Utility Libraries
-- **Lodash** - Modern JavaScript utility library
-- **Moment.js** - Parse, validate & display dates
-- **Axios** - Promise-based HTTP client
-
-### Animation & Graphics
-- **GSAP** - Professional-grade animation library
-- **Animate.css** - Cross-browser CSS animations
-- **Three.js** - 3D graphics library
-
-### Data Visualization
-- **Chart.js** - Simple yet flexible charts
-- **D3.js** - Data-driven documents
-
-### UI Components
-- **Swiper** - Modern touch slider
-- **Leaflet** - Interactive maps
-- **Font Awesome** - Icon toolkit
-
-### Developer Tools
-- **Prism.js** - Syntax highlighting
+- Tailwind CSS  
+- Bootstrap  
+- GSAP  
+- Font Awesome  
+- jQuery  
+- Vue.js  
+- React  
+- Axios  
+- Chart.js  
+- Three.js
 
 ## 🛠️ Installation
 
