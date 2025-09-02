@@ -4,7 +4,7 @@
   "name": "Any CDN",
   "main": "main.js",
   "version": "1.0.0",
-  "repository": "https://github.com/BadhonAI/anycdn.git",
+  "repository": "",
   "icon": "icon.png",
   "minVersionCode": 290,
   "license": "MIT",
