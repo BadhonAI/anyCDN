@@ -1,4 +1,4 @@
-# 🚀 CDN Library Hub for Acode
+Any CDN for Acode
 
 A powerful and elegant CDN management plugin for Acode editor that provides instant access to popular CDN links with version control, favorites system, and HTML bundle generation.
 
@@ -8,15 +8,15 @@ A powerful and elegant CDN management plugin for Acode editor that provides inst
 
 ## ✨ Introduction
 
-CDN Library Hub transforms the way you manage CDN dependencies in your web projects. With a beautiful dark-themed interface, this plugin provides quick access to the most popular JavaScript libraries, CSS frameworks, and utility packages - all with multiple version options and one-click copy functionality.
+Any CDN transforms the way you manage CDN dependencies in your web projects. With a beautiful dark-themed interface, this plugin provides quick access to the most popular JavaScript libraries, CSS frameworks, and utility packages - all with multiple version options and one-click copy functionality.
 
-Say goodbye to googling CDN links or manually typing script tags. This plugin brings everything you need right into your Acode editor.
+ goodbye to googling CDN links or manually typing script tags. This plugin brings everything you need right into your Acode editor.
 
 ## 🎯 Features
 
 - **📚 Extensive Library Collection** - Access 15+ popular CDNs instantly
 - **🔄 Version Control** - Switch between different versions of each library
-- **⭐ Favorites System** - Save your frequently used CDNs for quick access
+- **⭐ Favorites System** - ve your frequently ued CDNs for quick access
 - **📦 Bundle Generator** - Generate complete HTML templates with selected CDNs
 - **🔍 Smart Search** - Filter libraries by name or category
 - **📋 One-Click Copy** - Copy CDN URLs, script tags, or NPM commands instantly
@@ -28,7 +28,7 @@ Say goodbye to googling CDN links or manually typing script tags. This plugin br
 
 ### Opening the Plugin
 - **Keyboard Shortcut**: Press `Ctrl+Shift+C` (Windows/Linux) or `Cmd+Shift+C` (Mac)
-- The CDN Library Hub will open in a full-screen interface
+- The Any CDN will open in a full-screen interface
 
 ### Basic Usage
 
@@ -99,7 +99,7 @@ Say goodbye to googling CDN links or manually typing script tags. This plugin br
 
 1. Open Acode Editor
 2. Go to Settings → Plugins
-3. Search for "CDN Library Hub"
+3. Search for "Any CDN"
 4. Click Install
 5. Restart Acode (if required)
 

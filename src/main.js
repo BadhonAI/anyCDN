@@ -1,6 +1,6 @@
 import plugin from '../plugin.json';
 
-class AcodePlugin {
+class anyCDN {
   constructor() {
 this.cdnData = [
   {
@@ -879,7 +879,7 @@ ${jsScripts.join('\n')}
 }
 
 if (window.acode) {
-  const acodePlugin = new AcodePlugin();
+  const acodePlugin = new anyCDN();
   acode.setPluginInit(plugin.id, async (baseUrl, $page) => {
     await acodePlugin.init($page);
   });
